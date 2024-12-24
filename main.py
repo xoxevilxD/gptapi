@@ -39,10 +39,10 @@ O = f'\x1b[38;5;{memo}m'
 def nx():
     os.system("clear")
     Banner = f"""{B}{E}=============================={B}
-|{F}[+] YouTube    : {B}| Ahmed A 
-|{F}[+] TeleGram   : {B} maho_s9    
-|{F}[+] Instagram  : {B} ahmedalharrani 
-|{F}[+] Tool       : {B} AI Keys
+|{F}[+] YouTube    : {B}| Soon
+|{F}[+] TeleGram   : {B} @team_xox  
+|{F}[+] Instagram  : {B} Soon
+|{F}[+] Tool       : {B} AI Keys gen
 {E}==============================
 """
     for mm in Banner.splitlines():
@@ -50,9 +50,9 @@ def nx():
         print(mm)
 
 nx()
-token = input(f' {F}({M}1{F}) {M} Enter Token{F}  ' + O)
+token = "7095759793:AAGQ2fvAThfUHkSDARdSLOwPiWylqD-Khig"
 print(X + ' ═════════════════════════════════  ')
-ID = input(f' {F}({M}2{F}) {M} Enter ID{F}  ' + O)
+ID = 5947535097
 def ChatGPT(key):
     global gg, bb
     total = gg + bb    
