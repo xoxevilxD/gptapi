@@ -39,13 +39,12 @@ O = f'\x1b[38;5;{memo}m'
 def nx():
     os.system("clear")
     Banner = f"""{B}{E}=============================={B}
-|{F}[+] YouTube    : {B}| SOON
-|{F}[+] TeleGram   : {B} @team_xox
-|{F}[+] Instagram  : {B} SOON
-|{F}[+] Tool       : {B} AI Keys gen
+|{F}[+] YouTube    : {B}| Ahmed A 
+|{F}[+] TeleGram   : {B} maho_s9    
+|{F}[+] Instagram  : {B} ahmedalharrani 
+|{F}[+] Tool       : {B} AI Keys
 {E}==============================
 """
-nx()
     for mm in Banner.splitlines():
         time.sleep(0.05)
         print(mm)
